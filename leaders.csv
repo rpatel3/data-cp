@@ -1,0 +1,31 @@
+Team,Rank,w_number,l_number,wl_value
+Golden State Warriors,1,55,5,0.917
+San Antonio Spurs,2,52,9,0.852
+Cleveland Cavaliers,1,42,17,0.712
+Toronto Raptors,2,40,19,0.678
+Oklahoma City Thunder,3,42,20,0.677
+Los Angeles Clippers,4,40,20,0.667
+Memphis Grizzlies,5,36,24,0.6
+Boston Celtics,3,37,25,0.597
+Miami Heat,4,35,26,0.574
+Atlanta Hawks,5,33,28,0.541
+Charlotte Hornets,6,32,28,0.533
+Dallas Mavericks,6,33,29,0.532
+Portland Trail Blazers,6,33,29,0.532
+Indiana Pacers,7,32,29,0.525
+Detroit Pistons,8,31,30,0.508
+Chicago Bulls,9,30,30,0.5
+Washington Wizards,9,30,30,0.5
+Houston Rockets,8,30,31,0.492
+Utah Jazz,9,28,32,0.467
+Orlando Magic,11,27,33,0.45
+Sacramento Kings,10,25,35,0.417
+Milwaukee Bucks,12,25,36,0.41
+New York Knicks,13,25,37,0.403
+Denver Nuggets,11,24,37,0.393
+New Orleans Pelicans,12,23,37,0.383
+Minnesota Timberwolves,13,19,42,0.311
+Brooklyn Nets,14,17,44,0.279
+Phoenix Suns,14,15,46,0.246
+Los Angeles Lakers,15,12,50,0.194
+Philadelphia 76ers,15,8,53,0.131
